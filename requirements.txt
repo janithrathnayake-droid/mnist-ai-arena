@@ -1,0 +1,8 @@
+
+streamlit==1.67.0
+streamlit-drawable-canvas==0.13.0
+numpy==2.1.1
+pandas==3.0.3
+Pillow==10.4.0
+scikit-learn==1.9.1
+joblib==1.6.0
